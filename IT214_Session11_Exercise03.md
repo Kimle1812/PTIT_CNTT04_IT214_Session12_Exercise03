@@ -38,7 +38,6 @@ Failure Rate \= 5 / 5 × 100 \= 100%
 
 # **Phần 2 – application.yml hoàn chỉnh**
 
-Để Circuit Breaker hoạt động nhạy bén với bài toán chỉ có ít request, có thể đặt:
 
 server:
 
